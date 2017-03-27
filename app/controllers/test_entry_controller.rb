@@ -1,5 +1,5 @@
 class TestEntryController < ApplicationController
   def index
-    render text: "This is Heroku test for Latest Play!"
+    render text: "This is Heroku test for pipeline feature"
   end
 end
